@@ -4,6 +4,7 @@
   left:-5px;
   width:100%;
   height:100%;
+  float: left;
 }
 button {
   left: 0px;
